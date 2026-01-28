@@ -9,6 +9,7 @@ Neste projeto foi desenvolvida uma API de Login e Cadastro, utilizando JWT (JSON
 
 A aplicação segue os princípios de DDD (Domain-Driven Design), visando uma melhor organização do código, separação de responsabilidades e maior clareza no entendimento das regras de negócio.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 In this project, a Login and Registration API was developed, using JWT (JSON Web Token) for authentication, with the token stored in cookies to ensure better security and session management.
 
