@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
-</p>
-
-
 ## Description
 
 Neste projeto foi desenvolvida uma API de Login e Cadastro, utilizando JWT (JSON Web Token) para autenticação, com o token armazenado em cookies para maior segurança e controle de sessão.
