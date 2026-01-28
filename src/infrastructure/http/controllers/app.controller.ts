@@ -1,5 +1,5 @@
 import { BadRequestException, Body, Controller, Get, Post, Req, Res, UnauthorizedException, } from '@nestjs/common';
-import { AppService } from './app.service';
+import { AppService } from '../../../domain/services/app.service';
 import * as bcrypt from 'bcrypt';
 import { emit } from 'process';
 import { JwtService } from '@nestjs/jwt';
